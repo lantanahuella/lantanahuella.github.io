@@ -1,10 +1,10 @@
 +++
-title = "Latest posts"
+title = ""
 
 [extra]
-header = { title = "Hi, I'm YOUR_NAME! 👋", img = "img/profile.webp", img_alt = "YOUR_NAME" }
+header = { title = "Hola! 👋", img = "img/huella.png", img_alt = "huella lantana" }
 section_path = "blog/_index.md"
 max_posts = 5
 +++
 
-Welcome to my personal site!
+Sitio web del proyecto "La huella de la lantana cámara"
