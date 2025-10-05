@@ -49,10 +49,9 @@ Puntualmente el incendio de 2020, entre sus causas, la más evidentes fue la seq
 
 Las consecuencias al año siguiente fue una diseminación exponencial de una especie vegetal exótica invasora, Lantana cámara, L. (nombre vulgar Bandera española) que aprovechó el espacio deteriorado por los incendios. Esta especie colonizó una gran superficie de varias hectáreas, en la zona de interfase, o sea en los límites de la zona poblada y la agreste. Este cambio en el paisaje por la lantana cámara provoca diferentes alteraciones:
 
-Impide el paso, cerrando la vegetación que se reduce a un solo estrato, el arbustivo ocupado solo por la bandera española el monte. 
-
-Convierte una zona productiva ganadera en improductiva ya que no es consumida por el ganado.
-
-En invierno al secarse su parte aérea, que llega a tener una altura de más de 3 metros y muchas ramificaciones, genera abundante material combustible, creando condiciones propicias para futuros incendios.
+- Impide el paso, cerrando la vegetación que se reduce a un solo estrato, el arbustivo ocupado solo por la bandera española el monte. 
+- Convierte una zona productiva ganadera en improductiva ya que no es consumida por el ganado.
+- En invierno al secarse su parte aérea, que llega a tener una altura de más de 3 metros y muchas ramificaciones, genera abundante material combustible, creando condiciones propicias para futuros incendios.
 
 Reduce drásticamente la biodiversidad, al reemplazar todos los estratos, ya que impide el desarrollo de las especies vegetales nativas, generando mucho suelo desnudo, sin cobertura de herbáceas ni presencia de árboles y arbustos nativos. Esta situación sumada a la fuerte pendiente de los cerros provoca erosión hídrica,degradando aún más el ambiente.
+
