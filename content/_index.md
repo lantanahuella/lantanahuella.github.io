@@ -9,4 +9,4 @@ max_posts = 5
 
 Sitio web del proyecto "La huella de la lantana cámara".
 
-Mapa https://mapa.libre.net.ar/huella.lantana
+Mapa [https://mapa.libre.net.ar/huella.lantana](https://mapa.libre.net.ar/huella.lantana)
