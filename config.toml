@@ -1,5 +1,5 @@
 base_url = "https://huellalantana.libre.net.ar"
-title = "site title"
+title = "Lantana Huella"
 description = "YOUR_SITE_DESCRIPTION"
 author = "YOUR_NAME"
 theme = "tabi"
@@ -7,7 +7,7 @@ generate_feeds = true
 compile_sass = true
 minify_html = true
 build_search_index = true
-default_language = "en"
+default_language = "es"
 taxonomies = [{name = "tags", feed = true}]
 
 
