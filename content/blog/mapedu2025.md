@@ -35,7 +35,7 @@ Poner en discusión los intereses y acciones de los diferentes actores sociales 
 
 Generar un espacio de debate crítico sobre la relevancia de las tecnologías libres y los datos abiertos en proyectos educativos que se generan desde una institución pública, con la mirada de la Soberanía Tecnológica. 
 
-# Temática elegido (Ciencia y tecnología, Cambio climático, Desarrollo social): 
+# Temática elegido 
 
 - Ciencia y tecnología
 - Cambio climático
