@@ -2,7 +2,7 @@
 title = ""
 
 [extra]
-header = { title = "Hola! 👋", img = "img/huella.png", img_alt = "huella lantana" }
+header = { title = "¡Hola! 👋", img = "img/huella.png", img_alt = "huella lantana" }
 section_path = "blog/_index.md"
 max_posts = 5
 +++
