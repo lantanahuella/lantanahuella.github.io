@@ -5,6 +5,9 @@ description = "En el marco de la participación del proyecto MapEdu se propone c
 
 [taxonomies]
 tags = ["MapEdu"]
+
+[extra]
+pinned = true
 +++
 
 1. Información general del proyecto
