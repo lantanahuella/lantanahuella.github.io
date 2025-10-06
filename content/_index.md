@@ -7,6 +7,7 @@ section_path = "blog/_index.md"
 max_posts = 5
 +++
 
-Sitio web del proyecto **La huella de la lantana cámara**.
+# La huella de la lantana cámara
+Esta propuesta se fundamenta en que en la primavera del año 2020 se produjeron devastadores incendios en toda la provincia de Córdoba
 
 Mapa [https://mapa.libre.net.ar/huella.lantana](https://mapa.libre.net.ar/huella.lantana)
