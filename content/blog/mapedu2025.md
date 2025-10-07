@@ -12,7 +12,7 @@ pinned = true
 
 1. Información general del proyecto
 
-# Institución educativa que representa
+# Institución educativa
 
 El presente proyecto se llevará a cabo en una escuela pública y de nivel secundario, IPEM N° 119 Néstora Zarazaga, la cual se localiza en la localidad de Alpa Corral, departamento Río Cuarto, provincia de Córdoba, Argentina.
 
@@ -24,21 +24,15 @@ Proyecto de Mapeo abierto y colaborativo: “La huella de la lantana cámara”
 
 # Objetivos pedagógicos
 
-Conocer herramientas de mapeo abierto y participación colectiva, para el diagnóstico de una problemática ambiental local.  
+- Conocer herramientas de mapeo abierto y participación colectiva, para el diagnóstico de una problemática ambiental local.  
+- Trabajar en equipo desde una problemática comunitaria con distintos actores sociales.
+- Realizar un diagnóstico de la situación problemática y proponer intervenciones.
+- Aproximarse a las alternativas de solución mediante el mapeo abierto y colaborativo, análisis, comparación y reflexión.
+- Recuperar saberes previos de características ambientales y transferirlos al área de trabajo de Alpa Corral.
+- Poner en discusión los intereses y acciones de los diferentes actores sociales involucrados en las acciones para controlar la propagación de la lantana en Alpa Corral.
+- Generar un espacio de debate crítico sobre la relevancia de las tecnologías libres y los datos abiertos en proyectos educativos que se generan desde una institución pública, con la mirada de la Soberanía Tecnológica. 
 
-Trabajar en equipo desde una problemática comunitaria con distintos actores sociales.
-
-Realizar un diagnóstico de la situación problemática y proponer intervenciones.
-
-Aproximarse a las alternativas de solución mediante el mapeo abierto y colaborativo, análisis, comparación y reflexión.
-
-Recuperar saberes previos de características ambientales y transferirlos al área de trabajo de Alpa Corral.
-
-Poner en discusión los intereses y acciones de los diferentes actores sociales involucrados en las acciones para controlar la propagación de la lantana en Alpa Corral.
-
-Generar un espacio de debate crítico sobre la relevancia de las tecnologías libres y los datos abiertos en proyectos educativos que se generan desde una institución pública, con la mirada de la Soberanía Tecnológica. 
-
-# Temática elegido 
+# Temáticas 
 
 - Ciencia y tecnología
 - Cambio climático
