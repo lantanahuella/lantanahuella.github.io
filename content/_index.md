@@ -2,7 +2,7 @@
 title = ""
 
 [extra]
-header = { title = "La Huella de la Lantana Cámara", img = "img/huella.svg", img_alt = "Huella Lantana" }
+header = { title = "La Huella de la Lantana", img = "img/huella.svg", img_alt = "Huella Lantana" }
 section_path = "blog/_index.md"
 max_posts = 5
 +++
