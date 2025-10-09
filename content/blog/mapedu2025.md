@@ -10,19 +10,19 @@ tags = ["MapEdu"]
 pinned = true
 +++
 
-**1\. Información general del proyecto**
+# 1. Información general del proyecto
 
-**Institución educativa**
+# Institución educativa
 
 El presente proyecto se lleva a cabo en una escuela pública y de nivel secundario, IPEM 119 Néstora Zarazaga, la cual se localiza en la localidad de Alpa Corral, departamento Río Cuarto, provincia de Córdoba, Argentina.
 
 La escuela está inserta en una localidad serrana de 1.000 habitantes estables, aproximadamente, en el sur oeste de la provincia de Córdoba, con una trayectoria de 32 años, cuenta con un albergue estudiantil, para facilitar el acceso a la educación de los y las estudiantes que radican en la zona rural circundante. La cantidad del alumnado asciende a 124, funciona en el turno tarde, contando con una división por cada grado (1ro, 2do, 3ro, 4to, 5to y 6to año). En Córdoba, el nivel secundario incluye un ciclo básico, los tres primeros años; y un ciclo orientado, que contempla los tres grados restantes, el cual propone, además de los espacios curriculares troncales, espacios curriculares orientados, en nuestra escuela la orientación es de “Turismo”.
 
-**Título y objetivos**
+# Título y objetivos
 
 Proyecto de Mapeo abierto y colaborativo: *“La huella de la lantana”*
 
-Objetivos pedagógicos
+# Objetivos pedagógicos
 
 1) Conocer herramientas de mapeo abierto y participación colectiva, para el diagnóstico de una problemática ambiental local.    
 2) Trabajar en equipo desde una problemática comunitaria con distintos actores sociales.  
@@ -32,7 +32,7 @@ Objetivos pedagógicos
 6) Poner en discusión los intereses y acciones de los diferentes actores sociales involucrados en las acciones para controlar la propagación de la *Lantana camara L.,* lantana,  en Alpa Corral.  
 7) Generar un espacio de debate crítico sobre la relevancia de las tecnologías libres y los datos abiertos en proyectos educativos que se generan desde una institución pública, con la mirada de la Soberanía Tecnológica. 
 
-**Temáticas elegidas**
+# Temáticas elegidas
 
 * Ciencia y tecnología  
 * Cambio climático  
@@ -54,7 +54,7 @@ Las consecuencias al año siguiente se produjo la diseminación exponencial de l
 Como antecedente, cabe destacar que en Alpa Corral diferentes actores sociales como la Asociación Civil TIERRA UNIDA ACTIVA, la municipalidad de Alpa Corral, bomberos voluntarios, el Ministerio de Ambiente y Economía Circular de la provincia de Córdoba, CEPROCOR, vecinos y vecinas residentes y visitantes de la localidad vienen trabajando en la problemática de la invasión diseminación de la lantana.  
 Desde mayo de 2024, se lleva adelante un proyecto de restauración, en el que  se están concretando diferentes actividades de estudio e investigación sobre técnicas para el control de la *Lantana caCámara*, en parcelas experimentales hacia el oeste de Alpa Corral, puntualmente en el sector de la Unión de los Ríos, a unos 6 km aproximadamente, con el objetivo de intentar un manejo de la especie para limitar su expansión o disminuirla.
 
-**Etapas**
+# Etapas
 
 El proyecto de restauración que están desarrollando tiene tres instancias:  
  1\. Talleres participativos, de sensibilización y capacitaciones, concretadas por CEPROCOR y A.C.T.U.A., durante el 2024\. Referente al mapeo abierto y colaborativo, se destaca la realización de dos talleres: 01 de abril (desarrollado en Unión de los Ríos) y 26 al 28 de julio (desarrollado en el Polideportivo Municipal), ambos con gran convocatoria.  
@@ -64,7 +64,7 @@ El proyecto de restauración que están desarrollando tiene tres instancias:
 El proyecto de mapeo abierto y colaborativo se nos presenta como una oportunidad para aprender y colaborar desde la escuela secundaria. Se pretende ofrecer a los estudiantes de tercer año del IPEM N°119 Néstora Zarazaga trabajar con la problemática socioambiental de la diseminación exponencial de la especie vegetal exótica invasora, Lantana Cámara y mapear el territorio afectado por dicha situacionalidad. Y que se convierta en el disparador para aprender a construir registros cartográficos, tal como propone la metodología de MapEdu, fomentando autonomía y dominio de herramientas digitales, en el actual contexto en el que nos encontramos inmersos en la demanda del uso de Tecnologías de la Información y la Comunicación (TICs) y la participación ciudadana se vuelve clave para resolver desafíos locales, las herramientas de mapeo abierto se presentan una alternativa innovadora y significativa para el aprendizaje.  
 La propuesta intentará mapear la zona de invasión de lantana, comparando con un mapeo realizado el año anterior para monitorear el área y poder determinar si hay un avance, estancamiento o retroceso de la zona afectada, considerando las acciones ya concretadas por los actores sociales  antes mencionados.
 
-**Docentes involucrados**
+# Docentes involucrados
 
 * Bellomo Daniel, articulador de proyectos de mapeo abierto, colaborativo y humanitario con las instituciones territoriales.  
 * Colaneri Dario, docente del espacio curricular de Formación para la Vida y el Trabajo y Educación Tecnológica en el IPEM N° 119 Néstora Zarazaga  
@@ -72,7 +72,7 @@ La propuesta intentará mapear la zona de invasión de lantana, comparando con u
 * Lopez Susana, docente del espacio curricular de Geografía, en el IPEM N° 119 Néstora Zarazaga.  
 * Sarmiento Claudio, integrante del grupo de agroecología de la Universidad Nacional Río Cuarto. Director de la Diplomatura en Agroecología de la Facultad Agronomía y Veterinaria UNRC.
 
-**2\. Vinculación curricular educativa.**
+# 2. Vinculación curricular educativa
 
 En el marco del Programa TransFORMAR@Cba se implementó en la provincia de Córdoba, la Resolución N°11/2025 del Ministerio de Educación de Córdoba, la cual  aprueba el “Régimen Académico de la Educación Secundaria de la Provincia de Córdoba”. Esta normativa se implementa en el ciclo lectivo 2025 en todas las escuelas secundarias estatales y privadas de la provincia para renovar y actualizar progresivamente los contenidos educativos, la didáctica y la propuesta pedagógica de todos los niveles del sistema educativo provincial. 
 
@@ -103,7 +103,7 @@ Frente a esta situación, se vuelve necesario desarrollar proyectos educativos q
 
 La ambición está puesta en que los y las estudiantes logren interpretar y construir de manera colaborativa representaciones gráficas, cartográficas y audiovisuales para la comunicación de la problemática que se abordará. Destacando el rol de agentes multiplicadores que tiene el estudiantado, difundiendo las causas y consecuencias de la problemática como así también las posibles intervenciones, principalmente en la concientización.
 
-**3\. Participación estudiantil** 
+# 3. Participación estudiantil
 
 El grupo áulico está formado por 37 estudiantes, la mayoría reside en la localidad de alpa Corral, 3 de ellos viven en el límite de la zona de trabajo, otros se encuentran albergados ya que vienen desde la zona rural circundante y, este año, se sumaron 2 estudiantes de otras escuelas. Es un grupo muy heterogéneo, con agrupamientos internos constituidos. No obstante se logró que todos se involucren en el proyecto.
 
@@ -142,7 +142,7 @@ Tareas a seguir concretando:
 * Difundir del mapa para analizar las próximas acciones en la intervención de la problemática.  
 * Geolocalizar árboles nativos semilleros, tarea que surgió luego de recorrer el campo, observar lo que se está realizando y valorar el rol del bosque nativo para el ambiente y la comunidad. La tarea consistirá en localizar en la zona de estudio los árboles nativos semilleros, marcarlo en el mapa, para luego realizar la intervención en la lantaca cámara que rodea a los mismo y aplicar la técnica de control acorde a lo necesario y de mayor efectividad evaluada.
 
-**Participación y dinámica en el proceso de creación del mapa**
+# Participación y dinámica en el proceso de creación del mapa
 
 En un primer momento, a través de una capacitación tecnológica a cargo de Daniel Bellomo (UNRC/ICBIA/Choique), y el acompañamiento de profesores se realizará el trabajo de campo de mapeo.   
 En un segundo momento realizar la comparación con años anteriores y extraer las conclusiones. Dicho mapa se convertiría en un significativo aporte a las intervenciones que ya se están realizando, rescatando la importancia y poder que tiene cartografiar el espacio, en este caso, el espacio conocido y vivido. Convirtiéndose en una herramienta de planificación para futuras acciones, para la toma de decisiones, permitiendo una mirada más amplia y participativa de los actores sociales involucrados.  
@@ -153,7 +153,7 @@ Además se registró el trabajo de corte sobre las márgenes de un arroyo que at
 
 Como proyección del proyecto se realizaría todos los años el mismo trabajo con estudiantes de tercer año para ver la evolución de la especie invasora en las parcelas testigos como así también lo que va arrojando cada técnica aplicada.
 
-**4\. Participación comunitaria y estrategias de vinculación**
+# 4. Participación comunitaria y estrategias de vinculación
 
 El trabajo colaborativo entre diferentes instituciones en este proyecto de mapeo libre posibilita la articulación de esfuerzos, saberes y recursos con un objetivo común: controlar la diseminación de Lantana camara en Alpa Corral. El aporte del mapeo libre, a lo que ya se está realizando, es sumar la intervención de estudiantes a los actores sociales ya involucrados. Además de promover la educación ambiental, cartografiado libre y el desarrollo sostenible en la comunidad.
 
@@ -165,9 +165,9 @@ El trabajo conjunto se organiza mediante reuniones de coordinación, intercambio
 
 De esta manera, el trabajo colaborativo habilita conocer lo que sucede en la cotidianidad y lo que se hace, fortalece los lazos entre las instituciones, fomenta la participación ciudadana y contribuye a la construcción de actores sociales más comprometidos con el cuidado del ambiente del que somos parte.
 
-**5\. Impacto y herramientas utilizadas** 
+# 5. Impacto y herramientas utilizadas
 
-**Objetivos del proyecto**
+# Objetivos del proyecto
 
 El proyecto  tiene como objetivo que los estudiantes de tercer año elaboren, de manera colaborativa, un mapa del avance de la especie invasora Lantana Cámara en un sector de la localidad de Alpa Corral y las intervenciones que lleva adelante el proyecto de Restauración Ambiental (interinstitucional), para su concreción es necesario:
 
@@ -177,7 +177,7 @@ El proyecto  tiene como objetivo que los estudiantes de tercer año elaboren, de
 * Instalar en la comunidad educativa un espacio de reflexión sobre la importancia de utilizar datos abiertos en lugar de datos propietarios (ej. OpenStreetMap vs Google maps) para desarrollar proyectos desde una institución pública (en este caso una escuela, pero también aplica para la municipalidad, sistema de salud, bomberos, cooperativa, etc)  
 * Mostrar la capacidad de trabajo en equipo, integrando saberes y miradas complementarias, para desarrollar un proyecto educativo con aplicación concreta en la sociedad.
 
-**Herramientas de mapeo abierto utilizadas**
+## Herramientas de mapeo abierto utilizadas
 
 Hemos planificado usar estas herramientas a lo largo de todo el trabajo:
 
@@ -198,13 +198,13 @@ Acceder a la posibilidad de trabajar en el campo, en un territorio de sierra, a 
 
 Observar a los estudiantes con sus móviles, trabajando en una problemática socioambiental local, intercambiando con otras instituciones, tomar contacto con las necesidades e intereses de otros y dimensionar el impacto concreto visible y reflexionar sobre lo posible si no se interviene, se convierte en una interesante oportunidad para aprender.
 
-**Ventajas del uso de estas herramientas**
+# Ventajas del uso de estas herramientas
 
 Principalmente, que son herramientas libres, y nos hemos propuesto \- como parte del proceso de aprendizaje \- desarrollar capacidades técnicas que hagan uso de esta forma de construir tecnología, teniendo como base conceptual de diseño el paradigma de soberanía tecnológica, el aspecto de la privacidad de los datos, acceso al equipo y permisos que se le otorgan (red, cámara y micrófono) espacio que ocupan en memoria, obsolescencia  programada y consumo de la batería.
 
 En el caso particular de las app para el teléfono celular, una ventaja de las herramientas seleccionadas es que se pueden usar sin necesidad de tener conexión a Internet. Esto es esencial para trabajar en el campo. especialmente en zona serrana. También valoramos que se pueden instalar desde f-droid. 
 
-**6\. Documentación del proceso** 
+# 6. Documentación del proceso
 
 Sugerimos acceder al mapa desde el sitio web del proyecto, donde además encontrará información de contexto y noticias
 
@@ -218,7 +218,7 @@ Destacamos que el presente trabajo ha sido planificado por la comunidad educativ
 
 Para esta oportunidad el mapa se visibiliza on-line por medio del servicio uMap de HOT (embebido en una página HTML. La estratégia de tener un dominio independiente nos permite contemplar la posibilidad de cambiar el servicio conservando el URL, permitiendo que las presentaciones, folletería, calcomanías, difusión y documentación generada conserven la vigencia en el tiempo.
 
-**Trabajos futuros**
+# Trabajos futuros
 
 Como proyección del proyecto se propone:
 
