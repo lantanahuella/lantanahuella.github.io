@@ -57,7 +57,7 @@ Desde mayo de 2024, se lleva adelante un proyecto de restauración, en el que  s
 # Etapas
 
 El proyecto de restauración que están desarrollando tiene tres instancias:  
-1. Talleres participativos, de sensibilización y capacitaciones, concretadas por CEPROCOR y A.C.T.U.A., durante el 2024\. Referente al mapeo abierto y colaborativo, se destaca la realización de dos talleres: 01 de abril (desarrollado en Unión de los Ríos) y 26 al 28 de julio (desarrollado en el Polideportivo Municipal), ambos con gran convocatoria.
+1. Talleres participativos, de sensibilización y capacitaciones, concretadas por CEPROCOR y A.C.T.U.A., durante el 2024. Referente al mapeo abierto y colaborativo, se destaca la realización de tres talleres: Prácticas de relevamiento de vegetación (09 de agosto), Taller geo-referencia en desastres. Edición incendios forestales (26 al 28 de Julio) y Mapeo abierto para el desarrollo sostenible (01 de abril).
 2. Investigación de CEPROCOR con apoyo de A.C.T.U.A y la municipalidad de Alpa Corral (parcelas experimentales con distintos tratamientos), bajo la dirección científica de CEPROCOR y trabajo voluntario; 
 3. Prevención de incendios de A.C.T.U.A con Bomberos Voluntarios, Municipalidad de Alpa Corral y CEPROCOR, financiado por el Ministerio de Ambiente de la provincia de Córdoba, que consiste en el trabajo organizado en cuadrillas para la tala rasa de la lantana en zona de interfase con el fin de reducir la carga de combustible.
 
