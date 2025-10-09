@@ -177,7 +177,7 @@ El proyecto  tiene como objetivo que los estudiantes de tercer año elaboren, de
 * Instalar en la comunidad educativa un espacio de reflexión sobre la importancia de utilizar datos abiertos en lugar de datos propietarios (ej. OpenStreetMap vs Google maps) para desarrollar proyectos desde una institución pública (en este caso una escuela, pero también aplica para la municipalidad, sistema de salud, bomberos, cooperativa, etc)  
 * Mostrar la capacidad de trabajo en equipo, integrando saberes y miradas complementarias, para desarrollar un proyecto educativo con aplicación concreta en la sociedad.
 
-## Herramientas de mapeo abierto utilizadas
+# Herramientas de mapeo abierto utilizadas
 
 Hemos planificado usar estas herramientas a lo largo de todo el trabajo:
 
