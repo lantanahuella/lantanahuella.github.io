@@ -1,5 +1,5 @@
 +++
-title = "Concurso MapEdu 2025"
+title = "MapEdu '25"
 description = "Mapa de distribución de la lantana"
 weight = 1
 template = "page.html"
