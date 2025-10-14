@@ -5,7 +5,7 @@ weight = 1
 template = "page.html"
 
 [extra]
-local_image = "img/huella.svg"
+local_image = "img/mapa.png"
 +++
 
 > En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa, de manera colaborativa y usando datos abiertos, de distribución de una especie vegetal ***Lantana camara, L.*** en la localidad de Alpa Corral, provincia de Córdoba. Esta propuesta se fundamenta en que en la primavera del año 2020 se produjeron devastadores incendios en toda la provincia de Córdoba. Fueron más de 300.000 has incendiadas. Una de las más afectadas fue la zona serrana de Alpa Corral en el sur de la Sierra de los Comechingones
