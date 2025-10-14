@@ -1,6 +1,6 @@
 +++
 title = "MapEdu '25"
-description = "Mapa de distribución de la lantana"
+description = "mapa distribución lantana"
 weight = 1
 template = "page.html"
 
