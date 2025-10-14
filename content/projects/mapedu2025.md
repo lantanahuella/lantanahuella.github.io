@@ -4,6 +4,9 @@ description = "mapa distribución lantana"
 weight = 1
 template = "page.html"
 
+[taxonomies]
+tags = ["MapEdu"]
+
 [extra]
 local_image = "img/mapa.png"
 +++
