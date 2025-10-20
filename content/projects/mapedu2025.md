@@ -215,7 +215,7 @@ En el caso particular de las app para el teléfono celular, una ventaja de las h
 
 # 6. Documentación del proceso
 
-[Blog](https://huellalantana.libre.net.ar/blog/)
+[Blog -> https://huellalantana.libre.net.ar/blog/](https://huellalantana.libre.net.ar/blog/)
 
 Sugerimos acceder al mapa desde el sitio web del proyecto, donde además encontrará información de contexto y noticias
 
