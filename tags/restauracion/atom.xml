@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://huellalantana.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;huellalantana.libre.net.ar&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>restauración</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://huellalantana.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>Huella lantana - restauración</title>
+        <subtitle>En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa de distribución de una especie vegetal Lantana camara L. en la localidad de Alpa Corral</subtitle>
+    <link href="https://huellalantana.libre.net.ar/tags/restauracion/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://huellalantana.libre.net.ar/tags/restauracion/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2024-05-25T00:00:00+00:00</updated><id>https://huellalantana.libre.net.ar/tags/restauracion/atom.xml</id><entry xml:lang="es">
+        <title>Jornada de prácticas en restauración ambiental para la recuperación de áreas incendiadas</title>
+        <published>2024-05-25T00:00:00+00:00</published>
+        <updated>2024-05-25T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-05-25-jornada-restauracion/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-05-25-jornada-restauracion/</id>
+        
+            <content type="html">&lt;ul&gt;
+&lt;li&gt;Control de especies arbustivas invasoras&lt;&#x2F;li&gt;
+&lt;li&gt;Forestación con especies nativas&lt;&#x2F;li&gt;
+&lt;li&gt;Reconocimiento del área y mapeo de vegetación&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_01.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_02.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_03.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_04.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_05.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_06.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_07.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_08.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_09.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_10.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_11.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_12.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_13.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_14.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó una jornada de prácticas en restauración ambiental para la recuperación de áreas incendiadas</summary>
+        </entry>
+</feed>

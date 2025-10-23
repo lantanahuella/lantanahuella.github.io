@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://huellalantana.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;huellalantana.libre.net.ar&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>MapEdu</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://huellalantana.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>Huella lantana - MapEdu</title>
+        <subtitle>En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa de distribución de una especie vegetal Lantana camara L. en la localidad de Alpa Corral</subtitle>
+    <link href="https://huellalantana.libre.net.ar/tags/mapedu/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://huellalantana.libre.net.ar/tags/mapedu/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-10-07T00:00:00+00:00</updated><id>https://huellalantana.libre.net.ar/tags/mapedu/atom.xml</id><entry xml:lang="es">
+        <title>Jornada de mapeo en las parcelas</title>
+        <published>2025-10-07T00:00:00+00:00</published>
+        <updated>2025-10-07T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/25-10-07-mapeo-parcelas/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/25-10-07-mapeo-parcelas/</id>
+        
+            <content type="html">&lt;p&gt;Se recorrieron las parcelas intervenidas, las parcelas testigos, los cortafuegos hacia viviendas y cortafuegos hacia un arroyo, elemento esencial por sus funciones naturales en el ambiente.&lt;&#x2F;p&gt;
+&lt;p&gt;De cada sector, los estudiantes fueron registrando los puntos, para diferenciar las parcelas, las técnicas aplicadas (corte con motosierra y desbrote manual; arrancado de raíz de manera manual con ayuda de herramientas de jardinería (diferenciando las parcelas realizadas en primavera de 2024 de las aplicada en otoño de 2025); sombreado individual, cortando la planta y tomando la misma con un rectángulo de silo bolsa, atado con hilo y reforzado con piedras, para evitar una de las fuentes de alimentación de la planta, el sol; sombreado conjunto, en donde la cobertura se hace abarcando varios tacones cortados; intervención de corte más topicado químico y técnica de corte de la planta, chipeo de la ramería y tapado con el aserrín de la propia Lantana camara.&lt;&#x2F;p&gt;
+&lt;p&gt;Además se registró el trabajo de corte sobre las márgenes de un arroyo que atraviesa la zona de estudio, para disminuir la carga calórica del sector ante posibles incendios y la restauración ambiental.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;mapeo_parcelas_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;mapeo_parcelas_02.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-0.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4403_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-1.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-10.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-11.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-12.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-13.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-14.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-17.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-18.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-19.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-21.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4455.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-23.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-24.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-25.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-26.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-27.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-28.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-3.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-4.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-5.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-6.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-7.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-8.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-9.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-24.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-25.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó la visita en las parcelas de intervención en La Unión de los Ríos. Con la participación de estudiantes, docentes, y con la guia y explicación de Martin Rodríguez Dómine (Presidente de A.C.T.U.A.)</summary>
+        </entry><entry xml:lang="es">
+        <title>Presentación MapEdu 2025 en el IPEM 119</title>
+        <published>2025-10-07T00:00:00+00:00</published>
+        <updated>2025-10-07T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/presentacionmapeduenipem/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/presentacionmapeduenipem/</id>
+        
+            <content type="html">&lt;p&gt;El martes 07 de Oct, parte del equipo de trabajo, realizó la presentación del proyecto “Mapeo abierto y colaborativo: La huella de la lantana” https:&#x2F;&#x2F;huellalantana.libre.net.ar
+a la comunidad educativa de la escuela IPEM 119 Néstora Zarazaga, con la presencia de la directora del establecimiento, docentes y estudiantes.&lt;&#x2F;p&gt;
+&lt;p&gt;Se contaron detalles del trabajo realizado y se formularon en conjunto planes para continuar el desarrollo integrando a más estudiantes y docentes.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;presentacion_en_IPEM_01.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;presentacion_en_IPEM_02.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó la presentación del proyecto Mapeo abierto y colaborativo</summary>
+        </entry><entry xml:lang="es">
+        <title>Preparando la jornada de mapeo en las parcelas</title>
+        <published>2025-09-20T00:00:00+00:00</published>
+        <updated>2025-09-20T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/25-09-20-recorrida-parcelas/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/25-09-20-recorrida-parcelas/</id>
+        
+            <content type="html">&lt;p&gt;Darío, profesor del IPEM 119, realizó una primer recorrida por las parcelas, con el objetivo de planificar el recorrido con estudiantes.&lt;&#x2F;p&gt;
+&lt;p&gt;Se observa que el camino está muy cerrado, hay que definir recorridos buscando lugares aptos para realizar la actividad.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_1.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_2.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_3.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_4.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_5.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_6.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_7.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_8.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó recorrida por las parcelas de intervención en La Unión de los Ríos.</summary>
+        </entry>
+</feed>

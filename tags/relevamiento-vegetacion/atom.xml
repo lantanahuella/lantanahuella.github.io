@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://huellalantana.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;huellalantana.libre.net.ar&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>Relevamiento Vegetación</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://huellalantana.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>Huella lantana - Relevamiento Vegetación</title>
+        <subtitle>En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa de distribución de una especie vegetal Lantana camara L. en la localidad de Alpa Corral</subtitle>
+    <link href="https://huellalantana.libre.net.ar/tags/relevamiento-vegetacion/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://huellalantana.libre.net.ar/tags/relevamiento-vegetacion/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2024-08-09T00:00:00+00:00</updated><id>https://huellalantana.libre.net.ar/tags/relevamiento-vegetacion/atom.xml</id><entry xml:lang="es">
+        <title>Prácticas de relevamiento de vegetación</title>
+        <published>2024-08-09T00:00:00+00:00</published>
+        <updated>2024-08-09T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-08-09-relevamiento-vegetacion/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-08-09-relevamiento-vegetacion/</id>
+        
+            <content type="html">&lt;p&gt;Organizado de manera conjunta por ACTUA, Municipalidad e ICBIA (UNRC&#x2F;CONICET) se realiza en La Unión de los Ríos un taller práctico para realizar el relevamiento de la vegetación.
+Se trabaja en la confección de planillas, la identificación de especies leñosas, y la creación de mapas colaborativos usando datos abiertos.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;000_flyer.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3443.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3445.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3448.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3452.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3454.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3455.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3457.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3462.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Taller de prácticas de relevamiento de vegetación en La Unión de los Ríos</summary>
+        </entry>
+</feed>
