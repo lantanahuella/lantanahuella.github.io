@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://huellalantana.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;huellalantana.libre.net.ar&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>diagnóstico participativo</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://huellalantana.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>Huella lantana - diagnóstico participativo</title>
+        <subtitle>En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa de distribución de una especie vegetal Lantana camara L. en la localidad de Alpa Corral</subtitle>
+    <link href="https://huellalantana.libre.net.ar/tags/diagnostico-participativo/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://huellalantana.libre.net.ar/tags/diagnostico-participativo/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2024-03-31T00:00:00+00:00</updated><id>https://huellalantana.libre.net.ar/tags/diagnostico-participativo/atom.xml</id><entry xml:lang="es">
+        <title>Taller de diagnóstico participativo de los ecosistemas para propuestas colectivas de restauración ambiental comunitaria</title>
+        <published>2024-03-31T00:00:00+00:00</published>
+        <updated>2024-03-31T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-03-31-diagnostico-participativo/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-03-31-diagnostico-participativo/</id>
+        
+            <content type="html">&lt;p&gt;En el marco de la actividad &lt;em&gt;La Unión hace el Encuentro (una movida cultural)&lt;&#x2F;em&gt;, festival organizado por ACTUA, se realiza en La Unión de los Ríos el &lt;strong&gt;Taller de diagnóstico participativo de los ecosistemas para propuestas colectivas de Restauración ambiental comunitaria&lt;&#x2F;strong&gt;. Fue la simiente inicial del proyecto de restauración, en este taller salieron las primeras propuestas.&lt;&#x2F;p&gt;
+&lt;p&gt;Fue el primero de todos los talleres donde se aplicó una metodología propuesta por la Unidad de Recursos Fitogenéticos de CEPROCOR para generar el diagnóstico participativo, de dos situaciones contrastantes:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Un sector del ecosistema serrano afectado por los incendios del 2020 y posteriormente invadido por una especie exótica (la Lantana camara)&lt;&#x2F;li&gt;
+&lt;li&gt;Un sector del ecosistema no quemado, tomado cómo referencia para la restauración del sector invadido&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;00-taller_diagnostico.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;uno.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;dos.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;tres.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;cuatro.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;cinco.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;seis.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;siete.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;ocho.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;nueve.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;diez.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;once.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">En el marco de la actividad *La Unión hace el Encuentro (una movida cultural)*, festival organizado por ACTUA, se realiza en La Unión de los Ríos el **Taller de diagnóstico participativo de los ecosistemas para propuestas colectivas de Restauración ambiental comunitaria**. Fue la simiente inicial del proyecto de restauración, en este taller salieron las primeras propuestas</summary>
+        </entry>
+</feed>

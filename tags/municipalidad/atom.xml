@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://huellalantana.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;huellalantana.libre.net.ar&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>municipalidad</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://huellalantana.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>Huella lantana - municipalidad</title>
+        <subtitle>En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa de distribución de una especie vegetal Lantana camara L. en la localidad de Alpa Corral</subtitle>
+    <link href="https://huellalantana.libre.net.ar/tags/municipalidad/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://huellalantana.libre.net.ar/tags/municipalidad/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-10-13T00:00:00+00:00</updated><id>https://huellalantana.libre.net.ar/tags/municipalidad/atom.xml</id><entry xml:lang="es">
+        <title>Declaración de interés municipal</title>
+        <published>2025-10-13T00:00:00+00:00</published>
+        <updated>2025-10-13T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/2025-10-13-municipalidad/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/2025-10-13-municipalidad/</id>
+        
+            <content type="html">&lt;p&gt;El proyecto Mapeo abierto y colaborativo: La huella de la lantana, ha sido declarado de interés municipal.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;declaracion_municipalidad_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;declaracion_municipalidad_02.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">El proyecto Mapeo abierto y colaborativo: La huella de la lantana, ha sido declarado de interés municipal</summary>
+        </entry>
+</feed>

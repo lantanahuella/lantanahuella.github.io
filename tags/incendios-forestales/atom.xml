@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://huellalantana.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;huellalantana.libre.net.ar&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>incendios forestales</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://huellalantana.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>Huella lantana - incendios forestales</title>
+        <subtitle>En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa de distribución de una especie vegetal Lantana camara L. en la localidad de Alpa Corral</subtitle>
+    <link href="https://huellalantana.libre.net.ar/tags/incendios-forestales/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://huellalantana.libre.net.ar/tags/incendios-forestales/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2024-07-26T00:00:00+00:00</updated><id>https://huellalantana.libre.net.ar/tags/incendios-forestales/atom.xml</id><entry xml:lang="es">
+        <title>Taller geo-referencia en desastres. Edición incendios forestales</title>
+        <published>2024-07-26T00:00:00+00:00</published>
+        <updated>2024-07-26T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-07-26-edicion-incendios-forestales/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-07-26-edicion-incendios-forestales/</id>
+        
+            <content type="html">&lt;p&gt;Organizado por HOT, Bomberos, ETAC, ACTUA, UNRC, ICBIA y la Municipalidad, se realiza en Taller geo-referencia en desastres. Edición incendios forestales.&lt;&#x2F;p&gt;
+&lt;p&gt;Fueron tres días de intensa actividad, que incluyeron teoría, práctica y un simulacro de incendio forestal y búsqueda y rescate de personas.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mapa.libre.net.ar&#x2F;simulacro.alpa.2024&#x2F;&quot;&gt;Mapa que se desarrolló en el simulacro&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.hotosm.org&#x2F;updates&#x2F;on-the-front-line-of-climate-change-end-to-end-open-mapping-tech-for-wildfires&#x2F;&quot;&gt;Artículo en el web de HOT&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Fotos&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;001.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;resolucion-FAV-taller_mapeo_2024.07.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;5105110699574669238.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_20240725_163522.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3181.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3190.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3216.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3270.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3293.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3306.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3308.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3313.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3327.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3367.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;f18866432_ftyp.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;IMG_3371.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;IMG_3396.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;WhatsApp%20Image%202024-07-29%20at%2010.52.08.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;Z.Image%202024-07-29%20at%2008.33.05.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Organizado por HOT, Bomberos, ETAC, ACTUA, UNRC, ICBIA y la Municipalidad, se realiza en Taller geo-referencia en desastres. Edición incendios forestales</summary>
+        </entry>
+</feed>

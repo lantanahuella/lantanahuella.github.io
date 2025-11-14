@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="https://huellalantana.libre.net.ar/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+    <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
+        <tabi:base_url>https:&#x2F;&#x2F;huellalantana.libre.net.ar&#x2F;</tabi:base_url>
+        <tabi:separator>
+            •
+        </tabi:separator>
+        <tabi:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </tabi:about_feeds>
+        <tabi:visit_the_site>Visita la web</tabi:visit_the_site>
+        <tabi:recent_posts>Publicaciones recientes</tabi:recent_posts>
+        <tabi:last_updated_on>Actualizado el $DATE</tabi:last_updated_on>
+        <tabi:default_theme></tabi:default_theme>
+        <tabi:post_listing_date>date</tabi:post_listing_date>
+        <tabi:current_section>Huella lantana</tabi:current_section>
+    </tabi:metadata><link rel="extra-stylesheet" href="https://huellalantana.libre.net.ar/skins/mint.css?h=504215cf6bc10586b487" /><title>Huella lantana</title>
+        <subtitle>En el marco de la participación del proyecto MapEdu 2025 se propone construir un mapa de distribución de una especie vegetal Lantana camara L. en la localidad de Alpa Corral</subtitle>
+    <link href="https://huellalantana.libre.net.ar/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://huellalantana.libre.net.ar" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2025-10-13T00:00:00+00:00</updated><id>https://huellalantana.libre.net.ar/atom.xml</id><entry xml:lang="es">
+        <title>Declaración de interés municipal</title>
+        <published>2025-10-13T00:00:00+00:00</published>
+        <updated>2025-10-13T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/2025-10-13-municipalidad/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/2025-10-13-municipalidad/</id>
+        
+            <content type="html">&lt;p&gt;El proyecto Mapeo abierto y colaborativo: La huella de la lantana, ha sido declarado de interés municipal.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;declaracion_municipalidad_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;declaracion_municipalidad_02.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">El proyecto Mapeo abierto y colaborativo: La huella de la lantana, ha sido declarado de interés municipal</summary>
+        </entry><entry xml:lang="es">
+        <title>Jornada de mapeo en las parcelas</title>
+        <published>2025-10-07T00:00:00+00:00</published>
+        <updated>2025-10-07T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/25-10-07-mapeo-parcelas/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/25-10-07-mapeo-parcelas/</id>
+        
+            <content type="html">&lt;p&gt;Se recorrieron las parcelas intervenidas, las parcelas testigos, los cortafuegos hacia viviendas y cortafuegos hacia un arroyo, elemento esencial por sus funciones naturales en el ambiente.&lt;&#x2F;p&gt;
+&lt;p&gt;De cada sector, los estudiantes fueron registrando los puntos, para diferenciar las parcelas, las técnicas aplicadas (corte con motosierra y desbrote manual; arrancado de raíz de manera manual con ayuda de herramientas de jardinería (diferenciando las parcelas realizadas en primavera de 2024 de las aplicada en otoño de 2025); sombreado individual, cortando la planta y tomando la misma con un rectángulo de silo bolsa, atado con hilo y reforzado con piedras, para evitar una de las fuentes de alimentación de la planta, el sol; sombreado conjunto, en donde la cobertura se hace abarcando varios tacones cortados; intervención de corte más topicado químico y técnica de corte de la planta, chipeo de la ramería y tapado con el aserrín de la propia Lantana camara.&lt;&#x2F;p&gt;
+&lt;p&gt;Además se registró el trabajo de corte sobre las márgenes de un arroyo que atraviesa la zona de estudio, para disminuir la carga calórica del sector ante posibles incendios y la restauración ambiental.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;mapeo_parcelas_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;mapeo_parcelas_02.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-0.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4403_01.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-1.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-10.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-11.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-12.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-13.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-14.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-17.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-18.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-19.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-21.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4455.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-23.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-24.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-25.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-26.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-27.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-28.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-3.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-4.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-5.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-6.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-7.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-8.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-9.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-24.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;IMG_4476-25.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó la visita en las parcelas de intervención en La Unión de los Ríos. Con la participación de estudiantes, docentes, y con la guia y explicación de Martin Rodríguez Dómine (Presidente de A.C.T.U.A.)</summary>
+        </entry><entry xml:lang="es">
+        <title>Presentación MapEdu 2025 en el IPEM 119</title>
+        <published>2025-10-07T00:00:00+00:00</published>
+        <updated>2025-10-07T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/presentacionmapeduenipem/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/presentacionmapeduenipem/</id>
+        
+            <content type="html">&lt;p&gt;El martes 07 de Oct, parte del equipo de trabajo, realizó la presentación del proyecto “Mapeo abierto y colaborativo: La huella de la lantana” https:&#x2F;&#x2F;huellalantana.libre.net.ar
+a la comunidad educativa de la escuela IPEM 119 Néstora Zarazaga, con la presencia de la directora del establecimiento, docentes y estudiantes.&lt;&#x2F;p&gt;
+&lt;p&gt;Se contaron detalles del trabajo realizado y se formularon en conjunto planes para continuar el desarrollo integrando a más estudiantes y docentes.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;presentacion_en_IPEM_01.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;presentacion_en_IPEM_02.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó la presentación del proyecto Mapeo abierto y colaborativo</summary>
+        </entry><entry xml:lang="es">
+        <title>Preparando la jornada de mapeo en las parcelas</title>
+        <published>2025-09-20T00:00:00+00:00</published>
+        <updated>2025-09-20T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/25-09-20-recorrida-parcelas/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/25-09-20-recorrida-parcelas/</id>
+        
+            <content type="html">&lt;p&gt;Darío, profesor del IPEM 119, realizó una primer recorrida por las parcelas, con el objetivo de planificar el recorrido con estudiantes.&lt;&#x2F;p&gt;
+&lt;p&gt;Se observa que el camino está muy cerrado, hay que definir recorridos buscando lugares aptos para realizar la actividad.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_1.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_2.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_3.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_4.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_5.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_6.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_7.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;25.09.20_8.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó recorrida por las parcelas de intervención en La Unión de los Ríos.</summary>
+        </entry><entry xml:lang="es">
+        <title>Prácticas de relevamiento de vegetación</title>
+        <published>2024-08-09T00:00:00+00:00</published>
+        <updated>2024-08-09T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-08-09-relevamiento-vegetacion/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-08-09-relevamiento-vegetacion/</id>
+        
+            <content type="html">&lt;p&gt;Organizado de manera conjunta por ACTUA, Municipalidad e ICBIA (UNRC&#x2F;CONICET) se realiza en La Unión de los Ríos un taller práctico para realizar el relevamiento de la vegetación.
+Se trabaja en la confección de planillas, la identificación de especies leñosas, y la creación de mapas colaborativos usando datos abiertos.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;000_flyer.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3443.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3445.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3448.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3452.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3454.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3455.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3457.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.08.09_practicas_relevamiento_vegetacion&#x2F;IMG_3462.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Taller de prácticas de relevamiento de vegetación en La Unión de los Ríos</summary>
+        </entry><entry xml:lang="es">
+        <title>Taller geo-referencia en desastres. Edición incendios forestales</title>
+        <published>2024-07-26T00:00:00+00:00</published>
+        <updated>2024-07-26T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-07-26-edicion-incendios-forestales/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-07-26-edicion-incendios-forestales/</id>
+        
+            <content type="html">&lt;p&gt;Organizado por HOT, Bomberos, ETAC, ACTUA, UNRC, ICBIA y la Municipalidad, se realiza en Taller geo-referencia en desastres. Edición incendios forestales.&lt;&#x2F;p&gt;
+&lt;p&gt;Fueron tres días de intensa actividad, que incluyeron teoría, práctica y un simulacro de incendio forestal y búsqueda y rescate de personas.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mapa.libre.net.ar&#x2F;simulacro.alpa.2024&#x2F;&quot;&gt;Mapa que se desarrolló en el simulacro&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.hotosm.org&#x2F;updates&#x2F;on-the-front-line-of-climate-change-end-to-end-open-mapping-tech-for-wildfires&#x2F;&quot;&gt;Artículo en el web de HOT&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Fotos&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;001.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;resolucion-FAV-taller_mapeo_2024.07.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;5105110699574669238.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_20240725_163522.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3181.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3190.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3216.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3270.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3293.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3306.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3308.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3313.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3327.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;IMG_3367.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;f18866432_ftyp.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;IMG_3371.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;IMG_3396.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;daniel.bellomo.ar&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07.Taller_HOT_Alpa&#x2F;WhatsApp%20Image%202024-07-29%20at%2010.52.08.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.07_Tallet_HOT_Alpa&#x2F;Z.Image%202024-07-29%20at%2008.33.05.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Organizado por HOT, Bomberos, ETAC, ACTUA, UNRC, ICBIA y la Municipalidad, se realiza en Taller geo-referencia en desastres. Edición incendios forestales</summary>
+        </entry><entry xml:lang="es">
+        <title>Jornada de prácticas en restauración ambiental para la recuperación de áreas incendiadas</title>
+        <published>2024-05-25T00:00:00+00:00</published>
+        <updated>2024-05-25T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-05-25-jornada-restauracion/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-05-25-jornada-restauracion/</id>
+        
+            <content type="html">&lt;ul&gt;
+&lt;li&gt;Control de especies arbustivas invasoras&lt;&#x2F;li&gt;
+&lt;li&gt;Forestación con especies nativas&lt;&#x2F;li&gt;
+&lt;li&gt;Reconocimiento del área y mapeo de vegetación&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_01.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_02.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_03.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_04.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_05.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_06.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_07.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_08.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_09.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_10.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_11.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_12.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_13.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;img&#x2F;24.05.25_jornada_restauracion_14.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">Se realizó una jornada de prácticas en restauración ambiental para la recuperación de áreas incendiadas</summary>
+        </entry><entry xml:lang="es">
+        <title>Mapeo abierto para el desarrollo sostenible</title>
+        <published>2024-04-01T00:00:00+00:00</published>
+        <updated>2024-04-01T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/25-04-01-mapeo-abierto/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/25-04-01-mapeo-abierto/</id>
+        
+            <content type="html">&lt;p&gt;En el marco de la actividad &lt;em&gt;La Unión hace el Encuentro (una movida cultural)&lt;&#x2F;em&gt;, festival organizado por ACTUA,
+se realiza el taller de Mapeo abierto para el desarrollo sostenible, en La Unión de los Ríos.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;01_flyer.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;resolucion-FAV-taller_mapeo_2024.04.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;DSC00644.JPG&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;DSC00659.JPG&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;DSC00670.JPG&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;IMG_2955.JPG&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;IMG_2961.JPG&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;Image%202024-04-01%20at%2010.10.21%20AM.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;Image%202024-04-01%20at%2011.56.43%20AM.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;Image%202024-04-02%20at%2011.29.01%20AM.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;IMG_2958.JPG&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;Image%202024-04-02%20at%2011.28.55%20AM.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04_taller_mapeo_moradillos&#x2F;Z_foto_todos.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">En el marco de la actividad *La Unión hace el Encuentro (una movida cultural)*, festival organizado por ACTUA, se realiza el taller de Mapeo abierto para el desarrollo sostenible, en La Unión de los Ríos</summary>
+        </entry><entry xml:lang="es">
+        <title>Taller de diagnóstico participativo de los ecosistemas para propuestas colectivas de restauración ambiental comunitaria</title>
+        <published>2024-03-31T00:00:00+00:00</published>
+        <updated>2024-03-31T00:00:00+00:00</updated>
+        <author>
+            <name>Comunidad de Alpa Corral</name>
+        </author>
+        <link rel="alternate" href="https://huellalantana.libre.net.ar/blog/24-03-31-diagnostico-participativo/" type="text/html"/>
+        <id>https://huellalantana.libre.net.ar/blog/24-03-31-diagnostico-participativo/</id>
+        
+            <content type="html">&lt;p&gt;En el marco de la actividad &lt;em&gt;La Unión hace el Encuentro (una movida cultural)&lt;&#x2F;em&gt;, festival organizado por ACTUA, se realiza en La Unión de los Ríos el &lt;strong&gt;Taller de diagnóstico participativo de los ecosistemas para propuestas colectivas de Restauración ambiental comunitaria&lt;&#x2F;strong&gt;. Fue la simiente inicial del proyecto de restauración, en este taller salieron las primeras propuestas.&lt;&#x2F;p&gt;
+&lt;p&gt;Fue el primero de todos los talleres donde se aplicó una metodología propuesta por la Unidad de Recursos Fitogenéticos de CEPROCOR para generar el diagnóstico participativo, de dos situaciones contrastantes:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Un sector del ecosistema serrano afectado por los incendios del 2020 y posteriormente invadido por una especie exótica (la Lantana camara)&lt;&#x2F;li&gt;
+&lt;li&gt;Un sector del ecosistema no quemado, tomado cómo referencia para la restauración del sector invadido&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;fotos&quot;&gt;Fotos&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;00-taller_diagnostico.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;uno.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;dos.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;tres.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;cuatro.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;cinco.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;seis.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;siete.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;ocho.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;nueve.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;diez.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;tierraunidaactiva.github.io&#x2F;fotos&#x2F;media&#x2F;large&#x2F;2024.04.01_diagnostico_participativo&#x2F;once.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        <summary type="html">En el marco de la actividad *La Unión hace el Encuentro (una movida cultural)*, festival organizado por ACTUA, se realiza en La Unión de los Ríos el **Taller de diagnóstico participativo de los ecosistemas para propuestas colectivas de Restauración ambiental comunitaria**. Fue la simiente inicial del proyecto de restauración, en este taller salieron las primeras propuestas</summary>
+        </entry>
+</feed>
